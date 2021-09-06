@@ -5,5 +5,6 @@ public class Myclass {
 	{
 		System.out.println("HELLO JENKINS");
 		System.out.println("SECOND CHANGE");
+		System.out.println("third  CHANGE");
 	}
 }
